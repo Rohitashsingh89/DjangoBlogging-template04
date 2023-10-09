@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block content %}
+<style>
+    .about {
+        padding: 3rem;
+        width: 60%;
+        margin: auto;
+        margin-bottom: 2rem;
+    }
+    @media screen and (max-width: 800px) {
+        .about {
+            width: 100%;
+        }
+    }
+</style>
+
+<header class="hero">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-12 mx-auto w-100">
+                <div class="site-heading text-center">
+                    <h3 class=" site-heading my-5 text-white"> Welcome to my awesome Blog </h3>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container" style="min-height: 82vh; padding-top: 3rem;">
+ 
+    <main class="about shadow">
+        <section class="personal-info">
+            <h2>Personal Information</h2>
+            <p><strong>Name:</strong> Rohitash Singh</p>
+            <p><strong>Location:</strong> India</p>
+            <p><strong>Contact:</strong> brohitashsingh89@gmail.com</p>
+            
+        </section>
+
+        <section class="description">
+            <h2>Introduction</h2>
+            <p>
+                Hi, I'm Rohitash Singh. I am a passionate full stack web developer with a keen interest in creating responsive and
+                user-friendly websites. I have experience in various web technologies and enjoy working on exciting
+                projects. In my free time, I love to explore new technologies and contribute to open-source projects.
+                <p>
+                <a href="https://www.buymeacoffee.com/rohitashsingh89" target="_blank">Support my Initiative to buy me a coffee</a>
+                </p>
+                <p>
+                    <a href="https://rohitashsingh.vercel.app" target="_blank"><button class="btn btn-dark">Know more &rarr;</button></a>
+                </p>
+            </p>
+        </section>
+    </main>
+</div>
+{% endblock content %}

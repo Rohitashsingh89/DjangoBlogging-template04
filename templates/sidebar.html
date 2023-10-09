@@ -1,0 +1,37 @@
+{% block sidebar %}
+
+<style>
+    .card {
+        box-shadow: 0 16px 48px #E3E7EB;
+    }
+
+    a {
+        text-decoration: none;
+    }
+    .position-stic {
+        position: sticky;
+        top: 100px;
+    }
+</style>
+
+<!-- Sidebar Widgets Column -->
+<!-- Sidebar Widgets Column -->
+<div class="col-md-4 float-right">
+    <div class="card my-4 position-stic">
+        <h5 class="card-header">Recent Posts</h5>
+        <div class="card-body">
+            <ul class="list-unstyled">
+                {% for post in recent_posts %}
+                <div class="mb-4">
+                    <a href="{% url 'post_detail' post.slug  %}" class="outline-none">
+                        <p class="card-title">{{ post.title }}</p>
+                    </a>
+                    <hr>
+                </div>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+
+{% endblock sidebar %}
