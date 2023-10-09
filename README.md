@@ -1,7 +1,7 @@
 # Template04: Blogging Sytem in django 
 This repository contains the source code of Template04 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
 
-## Demo https://templates01.netlify.app/
+## Demo 
 
 
 [RS Blog.webm](https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/d5e21e96-abc7-45b3-b543-2d556e08d07b)
