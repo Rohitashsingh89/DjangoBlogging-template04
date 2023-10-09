@@ -1,7 +1,10 @@
-# Template01: Multi-Purpose Web Template
-This repository contains the source code of Template01 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
+# Template04: Blogging Sytem in django 
+This repository contains the source code of Template04 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
 
 ## Demo https://templates01.netlify.app/
+
+
+[RS Blog.webm](https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/d5e21e96-abc7-45b3-b543-2d556e08d07b)
 
 ## Purpose
 The primary objective of contributing this template to open source is to provide a versatile solution for developers and designers. By creating a template that can adapt to various requirements, we aim to empower the open-source community with a flexible tool that accelerates web development projects.
@@ -19,7 +22,6 @@ The primary objective of contributing this template to open source is to provide
 <img src="https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/22fcde6d-d8f6-4bff-ad3e-ff1a0c9a8791" alt="Templates03" height="300">
 
 [View Full Image](https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/22fcde6d-d8f6-4bff-ad3e-ff1a0c9a8791)
-[RS Blog.webm](https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/d5e21e96-abc7-45b3-b543-2d556e08d07b)
 
 
 ## Technologies Used
