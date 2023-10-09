@@ -3,7 +3,6 @@ This repository contains the source code of Template04 from the collection of 10
 
 ## Demo 
 
-
 [RS Blog.webm](https://github.com/Rohitashsingh89/DjangoBlogging-template04/assets/93479842/d5e21e96-abc7-45b3-b543-2d556e08d07b)
 
 ## Purpose
